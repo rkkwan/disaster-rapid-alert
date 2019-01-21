@@ -3,18 +3,18 @@
 The goal of this project was to use social media, specifically Twitter, to identify natural disasters as they occur. In this repo you will find the following:    
 
 #### Notebooks
-[01-Gathering-Data](./code/01-Gathering-Data.ipynb)
-[02-Feature-Engineering](./code/02-Feature-Engineering.ipynb)
-[03-Benchmark-Model](./code/03-Benchmark-Model.ipynb)
-[04-Model-Tuning-with-Doc2Vec](./code/04-Model-Tuning.ipynb)
-[05-Making-Predictions](./code/05-Making-Predictions.ipynb)
-[06-Time-Series-Analysis](.code/06-Time-Series-Analysis.ipynb)
+1. [01-Gathering-Data](./code/01-Gathering-Data.ipynb)
+2. [02-Feature-Engineering](./code/02-Feature-Engineering.ipynb)
+3. [03-Benchmark-Model](./code/03-Benchmark-Model.ipynb)
+4. [04-Model-Tuning-with-Doc2Vec](./code/04-Model-Tuning.ipynb)
+5. [05-Making-Predictions](./code/05-Making-Predictions.ipynb)
+6. [06-Time-Series-Analysis](.code/06-Time-Series-Analysis.ipynb)
 
 #### Deck
-[Utilizing Twitter for Disaster Detection](Utilizing Twitter for Disaster Detection.pptx)
+[Utilizing Twitter for Disaster Detection]('Utilizing Twitter for Disaster Detection.pptx')
 
 #### Paper
-[Utilizing Twitter for Disaster Detection](Utilizing Twitter for Disaster Detection.pdf)
+[Utilizing Twitter for Disaster Detection]('Utilizing Twitter for Disaster Detection.pdf')
 
 This project was developed by:  
 
@@ -42,8 +42,8 @@ We can implement our methods with new keywords and date-ranges in order to obser
 
 ## References  
 
-Ford, Jordan. (2018, Jul 11). "Improving disaster response through Twitter data". [https://phys.org/news/2018-07-disaster-response-twitter.html]
-Figure Eight. (2015, Sep 4). "Data For Everyone". [https://www.figure-eight.com/data-for-everyone/]
-Henrique, Jefferson. (2018, Nov 21). "GetOldTweets-python". [https://github.com/Jefferson-Henrique/GetOldTweets-python]
-Shperber, Gidi. (2017, Jul 25). "A gentle introduction to Doc2Vec". [https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e]
-Li, Susan. (2018, Sep 17). "Multi-Class Text Classification with Doc2Vec & Logistic Regression". [https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4]
+- Ford, Jordan. (2018, Jul 11). "Improving disaster response through Twitter data". [https://phys.org/news/2018-07-disaster-response-twitter.html]
+- Figure Eight. (2015, Sep 4). "Data For Everyone". [https://www.figure-eight.com/data-for-everyone/]
+- Henrique, Jefferson. (2018, Nov 21). "GetOldTweets-python". [https://github.com/Jefferson-Henrique/GetOldTweets-python]
+- Shperber, Gidi. (2017, Jul 25). "A gentle introduction to Doc2Vec". [https://medium.com/scaleabout/a-gentle-introduction-to-doc2vec-db3e8c0cce5e]
+- Li, Susan. (2018, Sep 17). "Multi-Class Text Classification with Doc2Vec & Logistic Regression". [https://towardsdatascience.com/multi-class-text-classification-with-doc2vec-logistic-regression-9da9947b43f4]
