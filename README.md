@@ -3,18 +3,18 @@
 The goal of this project was to use social media, specifically Twitter, to identify natural disasters as they occur. In this repo you will find the following:    
 
 #### Notebooks
-1. [01-Gathering-Data](./code/01-Gathering-Data.ipynb)
-2. [02-Feature-Engineering](./code/02-Feature-Engineering.ipynb)
-3. [03-Benchmark-Model](./code/03-Benchmark-Model.ipynb)
-4. [04-Model-Tuning-with-Doc2Vec](./code/04-Model-Tuning.ipynb)
-5. [05-Making-Predictions](./code/05-Making-Predictions.ipynb)
-6. [06-Time-Series-Analysis](.code/06-Time-Series-Analysis.ipynb)
+1. [Gathering Data](./code/01-Gathering-Data.ipynb)
+2. [Feature Engineering](./code/02-Feature-Engineering.ipynb)
+3. [Benchmark Model](./code/03-Benchmark-Model.ipynb)
+4. [Model Tuning with Doc2Vec](./code/04-Model-Tuning.ipynb)
+5. [Making Predictions](./code/05-Making-Predictions.ipynb)
+6. [Time Series Analysis](.code/06-Time-Series-Analysis.ipynb)
 
 #### Deck
-[Utilizing Twitter for Disaster Detection]('Utilizing Twitter for Disaster Detection.pptx')
+[Utilizing Twitter for Disaster Detection](./Utilizing Twitter for Disaster Detection.pptx)
 
 #### Paper
-[Utilizing Twitter for Disaster Detection]('Utilizing Twitter for Disaster Detection.pdf')
+[Utilizing Twitter for Disaster Detection](./Utilizing Twitter for Disaster Detection.pdf)
 
 This project was developed by:  
 
