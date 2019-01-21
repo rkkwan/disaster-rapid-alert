@@ -11,10 +11,10 @@ The goal of this project was to use social media, specifically Twitter, to ident
 6. [Time Series Analysis](.code/06-Time-Series-Analysis.ipynb)
 
 #### Deck
-[Utilizing Twitter for Disaster Detection](./Utilizing Twitter for Disaster Detection.pptx)
+[Utilizing Twitter for Disaster Detection](Utilizing-Twitter-for-Disaster-Detection.pptx)
 
 #### Paper
-[Utilizing Twitter for Disaster Detection](./Utilizing Twitter for Disaster Detection.pdf)
+[Utilizing Twitter for Disaster Detection](Utilizing-Twitter-for-Disaster-Detection.pdf)
 
 This project was developed by:  
 
